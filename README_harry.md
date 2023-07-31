@@ -159,4 +159,4 @@
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 Ask me anything here or email me [hryschiller](http://hryschiller@gmail.com)
 
-***Created by [WaitingWittyKitty](https://github.com/waitingwittykitty) with 💝!***
+***Created by [Kaiser](https://github.com/kaiser) with 💝!***
