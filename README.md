@@ -68,10 +68,6 @@
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff" />
 </p>
 
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=IceDev528&column=7&theme=onedark"/>
-</p>
-
 
 ## Github Stats
 <p align = "center">
