@@ -78,7 +78,7 @@
 
 <h3>Demo</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaiser3029&repo=portfolio)](https://github.com/kaiser3029/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaiser3029&repo=portfolio)](https://github.com/kaiser3029/KdaSea-Frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaiser3029&repo=ncnn_mobile_platform)](https://github.com/kaiser3029/ncnn_mobile_platform)
 
 ## <p align="center">😇 Contact Me 😇</p>
