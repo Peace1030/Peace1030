@@ -22,7 +22,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E.svg?logo=javascript&logoColor=black" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" />
-  <img alt="C#" src="https://img.shields.io/badge/C#-777BB4?logo=c#&logoColor=fff" />
+  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
 <h3>I code with</h3>
