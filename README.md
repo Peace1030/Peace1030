@@ -10,12 +10,15 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Game%20Developer;7+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Game%20Developer;7+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=40">
   </a>
 </p>
-<h3 align="center">I am a product marketer working in the San Francisco Bay Area. I'm also the organizer and founder of SF Game Development, the largest gaming meetup community in the Bay Area.</h3>
+<h3 align="center">Highly skilled and experienced game developer with 7 years of expertise in designing and developing captivating gaming
+experiences. Seeking a challenging position to utilize my technical skills and creative abilities to contribute to the
+success of a dynamic game development team.</h3>
+<br></br>
 
-
+<div align="center"> 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
@@ -39,7 +42,10 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="vagrant" width="40" height="40"/> </a>
+  <a href="https://www.bitcoin.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="vagrant" width="40" height="40"/> </a>
 </p>
+</div>
+<br></br>
 
 ## <p align="center">😇 Contact Me 😇</p>
   <div align="center"> 
