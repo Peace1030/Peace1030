@@ -15,7 +15,7 @@
 </p>
 <h3 align="center" >Highly skilled and experienced game developer with 7 years of expertise in designing and developing captivating gaming
 experiences. Seeking a challenging position to utilize my technical skills and creative abilities to contribute to the
-success of a dynamic game development team.</h3>
+success of a dynamic game development team</h3>
 <br></br>
 
 <div align="center"> 
