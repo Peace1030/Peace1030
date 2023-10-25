@@ -13,7 +13,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Game%20Developer;7+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=40">
   </a>
 </p>
-<h3 align="center" >Highly skilled and experienced game developer with 7 years of expertise in designing and developing captivating gaming
+<h3 align="center" >Highly skilled and experienced Full-Stack and Game developer with 7 years of expertise in designing and developing captivating gaming
 experiences. Seeking a challenging position to utilize my technical skills and creative abilities to contribute to the
 success of a dynamic game development team</h3>
 <br></br>
