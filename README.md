@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/kaiser3029/kaiser3029/blob/main/Logo.gif" />
+  <img src="https://github.com/Peace1030/Peace1030/blob/main/Logo.gif" />
 </p>
 
 <p align="center">
@@ -49,11 +49,11 @@ success of a dynamic game development team</h3>
 
 ## <p align="center">😇 Contact Me 😇</p>
   <div align="center"> 
-   <a href="mailto:kaiser3029@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+   <a href="mailto:peastar1030@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
   &nbsp;&nbsp;
   <a href="https://join.skype.com/invite/JScyn0BMIJ8S" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/kaiser3029" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+  <a href="https://t.me/PeaceStar01" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
   &nbsp;&nbsp;
 </div>
 -------------
